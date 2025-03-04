@@ -1,0 +1,12 @@
+D:\Projects\polysync\backend\sync-engine\target\debug\deps\libnotify-f69ab112c0ebdabb.rmeta: C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\lib.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\windows.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\null.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\poll.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\config.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\error.rs
+
+D:\Projects\polysync\backend\sync-engine\target\debug\deps\libnotify-f69ab112c0ebdabb.rlib: C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\lib.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\windows.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\null.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\poll.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\config.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\error.rs
+
+D:\Projects\polysync\backend\sync-engine\target\debug\deps\notify-f69ab112c0ebdabb.d: C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\lib.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\windows.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\null.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\poll.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\config.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\error.rs
+
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\lib.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\windows.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\null.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\poll.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\config.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\notify-8.0.0\src\error.rs:
